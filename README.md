@@ -1,2 +1,2 @@
-# CNN
-CNN_Fasion_MNIST
+# Neural Network Assignment-4
+CNN
